@@ -31,7 +31,7 @@ def print_word_varieties(word, confusables):
 
 confusables = Confusables('https://www.unicode.org/Public/draft/security/confusables.txt')
 
-confusables.confusables_dict['a'].extend(['𝓂', '𝓶'])
+confusables.confusables_dict['m'].extend(['𝓂', '𝓶']) # add more custom letters here
 
 
 show_menu()
