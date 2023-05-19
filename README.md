@@ -9,5 +9,8 @@
 #### 3 - Input an English word and output all possible letters of that word
 #### 4 - Input an English word and print out all the varieties of that word
 #### 5 - Exit the program
+#### Example
+![image](https://github.com/sankeer-28/Similar-text/assets/112449287/7747fd77-fcf2-487e-856f-0c9038913b3a)
+
 
 ### simply run the file main.py
