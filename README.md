@@ -1,6 +1,6 @@
 # Similar-text
 ## Given any English letter from the alphabet, outputs all the similar looking characters
-### A python webscraper that goes thorugh [the fonfusables.txt](https://www.unicode.org/Public/draft/security/confusables.txt) file and returns all the similar letters.
+### A python webscraper that goes thorugh [the confusables.txt](https://www.unicode.org/Public/draft/security/confusables.txt) file and returns all the similar letters.
 ### Uses a simple text based GUI.
 1 - Show menu
 2 - Input a letter and output all characters similar to that letter
