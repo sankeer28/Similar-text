@@ -5,7 +5,7 @@
        pip install confusables
 ### Uses a simple text based GUI.
 #### 1 - Show menu
-#### 2 - Input a letter and output all characters similar to that letter
+#### 2 - Input a letter and output all unicode characters similar to that letter
 #### 3 - Input an English word and output all possible letters of that word
 #### 4 - Input an English word and print out all the varieties of that word (all the combinations with each similar looking character)
 #### 5 - Exit the program
