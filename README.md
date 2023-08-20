@@ -1,6 +1,6 @@
 # Similar-text Finder
 ## Given any English letter from the alphabet, outputs all the similar looking characters
-### A python webscraper that goes thorugh [confusables.txt](https://www.unicode.org/Public/draft/security/confusables.txt) file and returns all the similar letters.I have also added the characters from [Lingojam](https://lingojam.com/FancyTextGenerator)
+### A python webscraper that goes through [confusables.txt](https://www.unicode.org/Public/draft/security/confusables.txt) file and returns all the similar letters.I have also added the characters from [Lingojam](https://lingojam.com/FancyTextGenerator)
 ## Please install confusables
        pip install confusables
 ### Uses a simple text based GUI.
