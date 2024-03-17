@@ -1,8 +1,10 @@
 # Similar-text 
 ## Given any English letter from the alphabet, outputs all the similar looking characters in all of unicode.
 ### A python webscraper that goes through [confusables.txt](https://www.unicode.org/Public/draft/security/confusables.txt) file and returns all the similar letters.I have also added the characters from [Lingojam](https://lingojam.com/FancyTextGenerator)
-## Please install confusables
+## [Live Demo](https://similar-text.vercel.app/)
+## Install Python then install confusables then run main.py
        pip install confusables
+       python main.py
 ### Uses a simple text based GUI.
 #### 1 - Show menu
 #### 2 - Input a letter and output all unicode characters similar to that letter
